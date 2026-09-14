@@ -31,6 +31,7 @@ Tenho interesse em desenvolvimento **backend, automação e engenharia de softwa
 ### Backend e Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=336791)
 ![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![APIs REST](https://img.shields.io/badge/APIs%20REST-111827?style=for-the-badge&logo=fastapi&logoColor=009688)
 
 ### Infraestrutura e DevOps
@@ -64,7 +65,7 @@ Tenho interesse em desenvolvimento **backend, automação e engenharia de softwa
 
 ## Atualmente estudando
 
-- Python avançado
+- Python
 - Desenvolvimento Backend
 - APIs REST
 - Docker
