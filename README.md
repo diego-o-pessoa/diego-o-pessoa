@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/diego-o-pessoa/diego-o-pessoa/main/assets/banner-github.png" alt="Banner Diego Pessoa" width="100%" />
+  <img src="https://raw.githubusercontent.com/diego-o-pessoa/diego-o-pessoa/main/github.png" alt="Banner Diego Pessoa" width="100%" />
 </p>
 
 <h1 align="center">Diego Pessoa</h1>
