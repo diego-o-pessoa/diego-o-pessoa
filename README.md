@@ -77,8 +77,15 @@ Tenho interesse em desenvolvimento **backend, automação e engenharia de softwa
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=diego-o-pessoa&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-o-pessoa&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/diego-o-pessoa">
+    <img height="180" align="center"
+      src="https://github-stats-extended.vercel.app/api?username=diego-o-pessoa&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
+  </a>
+
+  <a href="https://github.com/diego-o-pessoa">
+    <img height="180" align="center"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=diego-o-pessoa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  </a>
 </p>
 
 <p align="center">
